@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579436667 source:c:\users\sholay\desktop\programs\c programming\testing\main.c
+	<stdio.h>
+	<stdlib.h>
+

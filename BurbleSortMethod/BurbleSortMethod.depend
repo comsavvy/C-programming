@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576362367 source:c:\users\user\desktop\programs\c programming\burblesortmethod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1579788761 source:c:\users\sholay\desktop\programs\c programming\burblesortmethod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
