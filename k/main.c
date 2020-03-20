@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 int main() {
-    int a, x;
-a= 6;
-x= x+ (a=='3')*5-(x=5)/2;
-printf("%d", x);
+    char name[20];
+    sprintf(name, "%s", "125");
+    printf("%s", name);
 return 0;
 }
